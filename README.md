@@ -1,1 +1,1 @@
-# staad-u-ttough-design
+# staad-u-trough-design
